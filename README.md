@@ -1,1 +1,7 @@
-# primeiroi_3t
+# terceiro trimestre
+
+## Identificação
+João Vitor Cantoni Florio
+
+## Conteúdo
+HTML, CSS, javaScript
